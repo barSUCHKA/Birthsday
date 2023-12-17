@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-image: url(https://avatars.mds.yandex.net/i?id=270a2349e821e7b3932778cec99697a8060176db-9683096-images-thumbs&n=13);
+  flex-direction: column;
+  margin: auto;
+}
+
+.back {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100vw;
+  height: 100%;
+}
+
+.p1 {
+  font-size: 36px;
+  color: violet;
+  text-align: center;
+}
+
+.p2 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(9, 255, 0);
+  margin: 11% 0 11% 11%;
+}
+
+.m1 {
+  background-image: url(https://ic.pics.livejournal.com/ghost_light/1504611/1837232/1837232_300.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.p3 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(0, 225, 255);
+  margin: 11% 0 11% 11%;
+}
+
+.m2 {
+  background-image: url(https://assets.faceit-cdn.net/avatars/905a9275-4adf-4906-b694-29ab4a93c773_1626081308480.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.p4 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(255, 0, 0);
+  margin: 11% 0 11% 11%;
+}
+
+.m3 {
+  background-image: url(https://sun9-44.userapi.com/impf/c848620/v848620470/72d43/OpiLxW6uGEQ.jpg?size=300x300&quality=96&sign=75e00a41793ac36925e99c4fc4a8b3fa&c_uniq_tag=fYG10_mzQs94DN2HqllY_lGU6u2lRk81-9F5oiR66Rw&type=album);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.p5 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(255, 0, 255);
+  margin: 11% 0 11% 11%;
+}
+
+.m4 {
+  background-image: url(https://i.pinimg.com/736x/58/fb/44/58fb44e8c4eced3f7bdc14f47109ef36.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.p6 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(229, 255, 0);
+  margin: 11% 0 11% 11%;
+}
+
+.m5 {
+  background-image: url(https://sun9-58.userapi.com/impg/INPIsDlZCAF58GZFB3G_0vitgVfKL289eI2x7Q/u9Ss8yMxSgY.jpg?size=300x300&quality=95&sign=b6424b77a40c28d558d9a56001743219&c_uniq_tag=cfMLmizSXM2oFElthwy5NBBtPxdmo3_RC58M3blZmAk&type=album);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.p7 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(89, 0, 255);
+  margin: 11% 0 11% 11%;
+}
+
+.m6 {
+  background-image: url(https://pozdravlyamba.ru/wp-content/uploads/2020/11/Prikolnye-Pozdravleniia-S-Foto-Muzhchine-300x300.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+.p8 {
+  font-style: italic;
+  font-size: 20px;
+  color: rgb(255, 145, 0);
+  margin: 11% 0 11% 11%;
+}
+
+.m7 {
+  background-image: url(https://img.like.video/eu_live/3u1/1dssK7.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+
+
+
+
+
+
+
